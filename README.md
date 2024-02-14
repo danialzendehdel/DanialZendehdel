@@ -6,7 +6,7 @@
     - 💬 Ask me about anything related to electronics, programming, and open source software.
 
 ### *Connect with me:* 
-    - [LinkedIn](https://www.linkedin.com/in/danialzendehdel/)
+     - [LinkedIn](https://www.linkedin.com/in/danialzendehdel/)
 
 ### *Languages and Tools and libraries:* 
     - Python      
@@ -19,9 +19,7 @@
     - Git
     - Linux
 
-
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
           
           
 
