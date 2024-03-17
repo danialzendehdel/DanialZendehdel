@@ -31,8 +31,7 @@ I'm Danial Zendehdel, a Ph.D. candidate at Sapienza University Rome.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/arduino/arduino-plain.svg"  width=50 />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"  width=50 />
 
-          
-          
+
           
           
           
