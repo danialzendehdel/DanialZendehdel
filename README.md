@@ -1,7 +1,7 @@
 ## Hey there ✋
 
 ### 
-I'm Danial Zendehdel, a Ph.D. candidate at Sapienza University Rome. 
+I'm Danial Zendehdel, a researcher at Sapienza University Rome. 
 - I'm passionate about open source software and I'm always looking for new opportunities to contribute to the community.
 - 🌱 I’m currently learning about the world of open source software and I'm always looking for new opportunities to contribute to the community.
 - 💬 Ask me about anything related to electronics, programming, and open source software.
